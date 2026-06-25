@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word DOCX Format"
+  short_description: "Read, write, inspect, and format Word .docx documents."
+  default_prompt: "Work with a Word .docx document while preserving formatting and using project templates when available."
